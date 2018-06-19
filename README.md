@@ -8,7 +8,7 @@ This is a single page application featuring a map of my neighborhood. The map ha
 
 `🁤 create-react-app neighborhood-map-react` <br />
 `🁥 cd neighborhood-map-react` <br />
-`🁭 npm start`
+`🁦 npm start`
 
 ## Features
 
