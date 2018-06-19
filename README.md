@@ -6,8 +6,9 @@ This is a single page application featuring a map of my neighborhood. The map ha
 
 ## How To Run The App
 
-`🁤 npm install` <br />
-`🁥 npm start`
+`🁤 create-react-app neighborhood-map-react` <br />
+`🁥 cd neighborhood-map-react` <br />
+`🁭 npm start`
 
 ## Features
 
@@ -22,3 +23,4 @@ The appetite grows with what it feeds on.
 ## Requirements
 
 * [Node](https://nodejs.org/en/)
+* [React](https://github.com/facebook/create-react-app)
