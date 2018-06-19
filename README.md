@@ -17,7 +17,7 @@ This is a single page application featuring a map of my neighborhood. The map ha
 
 ## Hint
 
-The appetite grows with what it feeds on
+The appetite grows with what it feeds on.
 
 ## Requirements
 
